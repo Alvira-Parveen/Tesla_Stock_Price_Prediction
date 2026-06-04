@@ -308,11 +308,9 @@ Open the local host
 
 ## 👤 Author
 
-**ALVIRA PARVEEN**
-
-🔗 LinkedIn: https://www.linkedin.com/in/alvira-parveen-78022536b
-
-🌐 GitHub: https://github.com/Alvira-Parveen
+**Name**: ALVIRA PARVEEN  
+🔗 [LinkedIn](https://www.linkedin.com/in/alvira-parveen-78022536b)  
+🌐 [GitHub](https://github.com/Alvira-Parveen)
 
 ---
 
